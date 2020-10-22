@@ -3,7 +3,7 @@ A Database Application developed using Java and MySQL.
 
 
 ## Entity Relationship Diagram - ##
-<img src="https://github.com/flaviaratto/Hospital-Database-System/blob/main/ER_Diagram_Final.png" width=100%>
+<img src="https://github.com/flaviaratto/Hospital-Database-System/blob/master/ER_Diagram_Final.png" width=100%>
 
 
 ## Steps to run the application - ##
